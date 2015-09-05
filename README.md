@@ -4,6 +4,7 @@ Bonn-O-Mat
 Der Bonn-O-Mat ist ein Wahl-O-Mat für die Oberbürgermeisterwahl in Bonn 2015.
 Er basiert auf dem Mat-O-Wahl von Mathias Steudtner und ist dem entsprechend ein in einfach zu bedienender, freier Wahl-O-Mat-Klon fuer jedermann.
 
+
 Im Verzeichnis EXTRAS befinden sich weitere Beispiele.
 Die Inhalte muessen lediglich in das DATA-Verzeichnis entpackt werden.
 Alle alten Inhalte muessen davor natuerlich aus dem DATA-Verzeichnis geloescht werden.

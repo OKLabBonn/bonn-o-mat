@@ -1,7 +1,7 @@
 Bonn-O-Mat
 =======
 
-Der Bonn-O-Mat ist ein Wahl-O-Mat für die Kommunalwahl 2014 in Wuppertal.
+Der Bonn-O-Mat ist ein Wahl-O-Mat für die Oberbürgermeisterwahl in Bonn 2015.
 Er basiert auf dem Mat-O-Wahl von Mathias Steudtner und ist dem entsprechend ein in einfach zu bedienender, freier Wahl-O-Mat-Klon fuer jedermann.
 
 Im Verzeichnis EXTRAS befinden sich weitere Beispiele.

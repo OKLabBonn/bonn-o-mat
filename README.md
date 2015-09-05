@@ -22,3 +22,6 @@ und weist auf eventuelle Fehler hin.
 
 Lizenz: GPL 3 (siehe Verzeichnis /SYSTEM)
 
+Der Bonn-O-Mat basiert technisch auf dem TALOMAT des Wuppertales OK Labs https://github.com/Opendatal/Talomat.
+Danke für die tolle Arbeit!
+
